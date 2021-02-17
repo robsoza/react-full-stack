@@ -1,0 +1,36 @@
+.peoplelist {
+    font-family: 'Noto Sans',
+        sans-serif;
+}
+
+.clList li:hover {
+    transform: scale(1.05);
+    color: teal;
+}
+
+.signupbtn {
+    background-color: teal;
+    color: white;
+    padding: 20px 100px;
+    margin: 10px;
+    display: inline-block;
+    font-size: 22px;
+    border: gray;
+    border-radius: 2%;
+}
+
+.status {
+    color: white
+}
+
+.success {
+    color: green
+}
+
+.warning {
+    color: orange
+}
+
+.error {
+    color: red
+}

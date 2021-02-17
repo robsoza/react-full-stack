@@ -1,0 +1,16 @@
+.footercomp {
+    background-color: #00203e;
+    font-family: 'Noto Sans',
+        sans-serif;
+        bottom: 0;
+}
+
+.social-icon {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+}
+
+.darkblue {
+    background-color: #00203e;
+}

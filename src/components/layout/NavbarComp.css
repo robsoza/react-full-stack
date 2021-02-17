@@ -1,0 +1,9 @@
+.navbar {
+    font-family: 'Noto Sans',
+        sans-serif;
+    touch-action: none;
+}
+
+.darkblue {
+    background-color: #00203e;
+}

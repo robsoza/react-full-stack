@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.clstatus {
+  color: white
+}
+
+.clsuccess {
+  color: green
+}
+
+.clwarning {
+  color: orange
+}
+
+.clerror {
+  color: red
+}
+
+
+.clEgg:hover {
+  transform: scale(1.05);
+  color: rgba(204, 226, 212, 0.972);
+
+}
